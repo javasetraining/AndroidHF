@@ -88,3 +88,14 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+BeerAdvisor/app/build.gradle
+*.xml
+BeerAdvisor/gradlew.bat
+*.gradle
+BeerAdvisor/gradle/wrapper/gradle-wrapper.properties
+*.jar
+BeerAdvisor/gradlew
+*.properties
+*.pro
+BeerAdvisor/.idea/.name
+Messenger/.idea/
